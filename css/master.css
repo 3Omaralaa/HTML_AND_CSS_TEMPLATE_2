@@ -127,7 +127,6 @@ header .container::after {
     display: flex;
 }
 .container a img{
-    height: 50px;
     display: flex;
 }
     
@@ -202,7 +201,7 @@ header nav ul {
 
 
 .landing{
-    background-image: url(../images/MV5BOGExNzQ1NGItM2JlYy00ZmRkLTgwZjYtOTk4MjY0MGE1OWJkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg);
+    background-image: url(../images/landing.jpeg);
     background-size: cover;
     min-height: 100vh;
     background-color: #333;
